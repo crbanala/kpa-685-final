@@ -1,2 +1,10 @@
-# kpa-685-final
-Final Project of 685
+# Key point Analysis: Improvement with better Candidate Extraction
+
+## Folder Structure
+------
+
+## Datasets
+------
+
+## Model Checkpoints
+------
