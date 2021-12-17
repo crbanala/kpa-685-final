@@ -14,6 +14,18 @@ Rule-based Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Ru
 
 Pegasus Finetuned Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Summarization%20Models/Pegasus-FineTuned)
 
+
+## Model Checkpoints
+------
+Pegasus - ArgKP : https://drive.google.com/drive/folders/1ZiJL0qEvz2kvCWfpNKkF6Ngr1Ev-eFbG?usp=sharing
+
+Roberta-yelp-sentiment : https://drive.google.com/drive/folders/1S_VcYdlT7gX7QSHYaCxg-h7gYI7CLpcg?usp=sharing
+
+Matching - ArgKp : https://drive.google.com/drive/folders/1owcAZoOhV-AxLNpFHt5pdW-wZUzAPYdk?usp=sharing
+
+Quality - Arg30K : https://drive.google.com/drive/folders/1owcAZoOhV-AxLNpFHt5pdW-wZUzAPYdk?usp=sharing
+
+
 ## Folder Structure
 ------
 
@@ -65,12 +77,3 @@ Project_keyPointsGeneration.ipynb -
 https://colab.research.google.com/drive/1k4kCQTyQDQIPfZPwRTcrmnDpB3Aw0aEh?usp=sharing
 
 
-## Model Checkpoints
-------
-Pegasus - ArgKP : https://drive.google.com/drive/folders/1ZiJL0qEvz2kvCWfpNKkF6Ngr1Ev-eFbG?usp=sharing
-
-Roberta-yelp-sentiment : https://drive.google.com/drive/folders/1S_VcYdlT7gX7QSHYaCxg-h7gYI7CLpcg?usp=sharing
-
-Matching - ArgKp : https://drive.google.com/drive/folders/1owcAZoOhV-AxLNpFHt5pdW-wZUzAPYdk?usp=sharing
-
-Quality - Arg30K : https://drive.google.com/drive/folders/1owcAZoOhV-AxLNpFHt5pdW-wZUzAPYdk?usp=sharing
