@@ -8,7 +8,7 @@ Sentiment Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Sen
 
 Pegasus Finetuned Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Summarization%20Models/Pegasus-FineTuned)
 
-Sentiment Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Sentiment%20Classifier)
+Rule-based Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Rule-based%20Model)
 
 ## Folder Structure
 ------
