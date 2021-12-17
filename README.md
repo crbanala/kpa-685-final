@@ -4,6 +4,10 @@
 
 ## Index of Models
 ------
+Quality Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Quality%20Model)
+
+Matching Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Matching%20Model)
+
 Sentiment Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Sentiment%20Classifier)
 
 Pegasus Finetuned Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Summarization%20Models/Pegasus-FineTuned)
