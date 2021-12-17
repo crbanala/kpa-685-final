@@ -30,9 +30,10 @@ Pegasus Finetuned Model : [link](https://github.com/crbanala/kpa-685-final/tree/
   - Contains code for Matching model
 
 - Summarization Models
-  - Contains code used for generating summaries of reviews with T5,BART and Pegasus models.
   - Pegasus-FineTuned
     - Code for dataset preparation and Pegasus Finetuning on IBM's ArgKP dataset and saving a checkpoint
+    - Code for generating N candidates
+    - Code for choosing top K from N
   - Without Finetuning
     - Code for generating sample summaries from reviews using T5, BART and pegasus on Restaurant and Hotel reviews.
 
