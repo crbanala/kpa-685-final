@@ -16,6 +16,8 @@
   - Contains code used for generating summaries of reviews with T5,BART and Pegasus models.
   - Pegasus-FineTuned
     - Code for dataset preparation and Pegasus Finetuning on IBM's ArgKP dataset and saving a checkpoint
+  - Without Finetuning
+    - Code for generating sample summaries from reviews using T5, BART and pegasus on Restaurant and Hotel reviews.
 
 
 - checkpoints
