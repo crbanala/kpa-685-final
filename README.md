@@ -2,7 +2,7 @@
 
 
 
-## Index of Models
+## Index of Trained Models
 ------
 Sentiment Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Sentiment%20Classifier)
 
