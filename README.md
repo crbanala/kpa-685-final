@@ -18,7 +18,10 @@ Rule-based Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Ru
 ------
 
 - Data Preprocessing
-  - Contains code used to process the yelp dataset to "Restaurant reviews and 
+  - Contains code used to process the yelp dataset to "Restaurant" reviews and "Hotel" reviews
+ 
+- Sentiment Classifier
+  - Contains code used for Roberta-base finetuned on Yelp for sentiment classification
 
 - Quality Model
    - Contains code for Quality model
@@ -32,9 +35,6 @@ Rule-based Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Ru
     - Code for dataset preparation and Pegasus Finetuning on IBM's ArgKP dataset and saving a checkpoint
   - Without Finetuning
     - Code for generating sample summaries from reviews using T5, BART and pegasus on Restaurant and Hotel reviews.
-
-
-- checkpoints
 
 
 ## Datasets
