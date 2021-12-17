@@ -7,6 +7,7 @@
   - Contains code used to process the yelp dataset to "Restaurant reviews and 
 
 - Quality Model
+   - Contains code for Quality model
 
 - Matching Model
   - Contains code for Matching model
