@@ -9,7 +9,7 @@
 - Quality Model
 
 - Matching Model
-  - COntains code for Matching model
+  - Contains code for Matching model
 
 - Summarization Models
   - Contains code used for generating summaries of reviews with T5,BART and Pegasus models.
@@ -22,6 +22,30 @@
 
 ## Datasets
 ------
+
+Yelp pre processed 1M - https://drive.google.com/file/d/1jI9-1SubKmqfcdnmv0EAVFMTCIDN_Jyj/view?usp=sharing
+
+Yelp restaurants from 1M - 
+https://drive.google.com/file/d/1sj4calRVHF3d_pIRti40EULdV732_2Kc/view?usp=sharing
+
+Yelp hotels from 1M - 
+https://drive.google.com/file/d/1-4WFDqdZsWJP17uoTSWjeapzT_mrW1r3/view?usp=sharing
+
+
+Yelp restaurants business ids - 
+https://drive.google.com/file/d/1-HU7aTN2p6KmVOrzcnjOrqJJ9ghY8SwC/view?usp=sharing
+
+Yelp Hotels business ids - 
+https://drive.google.com/file/d/1jM-z6_MyWHOgI52WN9_estRpydmYB9ka/view?usp=sharing
+
+
+
+Project_PreProcessing.ipynb - 
+https://colab.research.google.com/drive/1JCCMY_qLA3JxbOwG1mIUDPyz8_U_d3rg?usp=sharing
+
+Project_keyPointsGeneration.ipynb -
+https://colab.research.google.com/drive/1k4kCQTyQDQIPfZPwRTcrmnDpB3Aw0aEh?usp=sharing
+
 
 ## Model Checkpoints
 ------
