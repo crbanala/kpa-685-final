@@ -4,15 +4,15 @@
 
 ## Index of Models
 ------
+Sentiment Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Sentiment%20Classifier)
+
 Quality Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Quality%20Model)
 
 Matching Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Matching%20Model)
 
-Sentiment Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Sentiment%20Classifier)
+Rule-based Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Rule-based%20Model)
 
 Pegasus Finetuned Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Summarization%20Models/Pegasus-FineTuned)
-
-Rule-based Model : [link](https://github.com/crbanala/kpa-685-final/tree/main/Rule-based%20Model)
 
 ## Folder Structure
 ------
